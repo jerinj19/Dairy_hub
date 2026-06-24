@@ -1,0 +1,16 @@
+# Python
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+db.sqlite3
+
+# Environment
+.env
+.env.*
+
+# Node
+front_end/node_modules/
+front_end/dist/
+
+# VS Code
+.vscode/
